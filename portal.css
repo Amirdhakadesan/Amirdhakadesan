@@ -1,0 +1,4 @@
+body{
+    background-image: url(clg1);
+    border-image-source: -moz-repeating-radial-gradient(50px);
+}
